@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorOnSecondary">@color/black</color>
+    <color name="cyan_800">#00838f</color>
+    <color name="cyan_800_light">#4fb3bf</color>
+    <color name="cyan_800_dark">#005662</color>
+    <color name="red_a200">#ff5252</color>
+    <color name="red_a200_light">#ff867f</color>
+    <color name="red_a200_dark">#c50e29</color>
+    <color name="gray_50">#fafafa</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>
